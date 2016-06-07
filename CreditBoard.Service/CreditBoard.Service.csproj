@@ -40,11 +40,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IUserService.cs" />
+    <Compile Include="ProfilesService.cs" />
     <Compile Include="UserService.cs" />
     <Compile Include="Common\EntityService.cs" />
-    <Compile Include="Common\IEntityService.cs" />
-    <Compile Include="Common\IService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -52,9 +50,9 @@
       <Project>{307123a4-1500-4260-a443-a04ce8e935b3}</Project>
       <Name>CreditBoard.DTO</Name>
     </ProjectReference>
-    <ProjectReference Include="..\CreditBoard.Repository\CreditBoard.Repository.csproj">
-      <Project>{8105a37b-03e9-4551-b0a6-ed208801f175}</Project>
-      <Name>CreditBoard.Repository</Name>
+    <ProjectReference Include="..\CreditBoard.Shared\CreditBoard.Shared.csproj">
+      <Project>{16c87446-5323-4b74-86ab-9c2739c41b16}</Project>
+      <Name>CreditBoard.Shared</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

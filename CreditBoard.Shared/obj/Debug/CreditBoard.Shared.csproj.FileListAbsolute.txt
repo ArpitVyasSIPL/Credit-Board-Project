@@ -1,0 +1,11 @@
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\bin\Debug\CreditBoard.Shared.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\bin\Debug\CreditBoard.Shared.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\bin\Debug\CreditBoard.DTO.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\bin\Debug\EntityFramework.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\bin\Debug\CreditBoard.DTO.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\bin\Debug\EntityFramework.xml
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\obj\Debug\CreditBoard.Shared.csprojResolveAssemblyReference.cache
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\obj\Debug\CreditBoard.Shared.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Shared\obj\Debug\CreditBoard.Shared.pdb

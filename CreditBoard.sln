@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditBoard.Repository", "C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditBoard.Service", "CreditBoard.Service\CreditBoard.Service.csproj", "{FE5BA808-1BA5-400E-8B01-CD608CA63E00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditBoard.Shared", "CreditBoard.Shared\CreditBoard.Shared.csproj", "{16C87446-5323-4B74-86AB-9C2739C41B16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FE5BA808-1BA5-400E-8B01-CD608CA63E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE5BA808-1BA5-400E-8B01-CD608CA63E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE5BA808-1BA5-400E-8B01-CD608CA63E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16C87446-5323-4B74-86AB-9C2739C41B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16C87446-5323-4B74-86AB-9C2739C41B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16C87446-5323-4B74-86AB-9C2739C41B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16C87446-5323-4B74-86AB-9C2739C41B16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
 ﻿using System;
+using CreditBoard.Shared;
 using System.Data.Entity;
 
 namespace CreditBoard.Repository

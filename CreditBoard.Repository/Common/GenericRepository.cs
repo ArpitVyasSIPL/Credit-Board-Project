@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data.Entity;
 using CreditBoard.DTO;
+using CreditBoard.Shared;
 using System.Linq;
 
 namespace CreditBoard.Repository

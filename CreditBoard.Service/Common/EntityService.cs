@@ -1,6 +1,6 @@
 ﻿using System;
 using CreditBoard.DTO;
-using CreditBoard.Repository;
+using CreditBoard.Shared;
 using System.Collections.Generic;
 
 namespace CreditBoard.Service

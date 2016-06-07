@@ -1,0 +1,13 @@
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\CreditBoard.Repository.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\CreditBoard.Repository.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\CreditBoard.DTO.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\CreditBoard.Shared.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\EntityFramework.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\CreditBoard.DTO.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\CreditBoard.Shared.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\EntityFramework.xml
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\obj\Debug\CreditBoard.Repository.csprojResolveAssemblyReference.cache
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\obj\Debug\CreditBoard.Repository.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Repository\obj\Debug\CreditBoard.Repository.pdb

@@ -1,0 +1,12 @@
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\bin\Debug\CreditBoard.DTO.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\bin\Debug\CreditBoard.DTO.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\bin\Debug\EntityFramework.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\bin\Debug\EntityFramework.xml
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\obj\Debug\CreditBoard.DTO.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\obj\Debug\CreditBoard.DTO.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\bin\Debug\CreditBoard.DTO.dll.config
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\obj\Debug\CreditBoard.DTO.csprojResolveAssemblyReference.cache
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\obj\Debug\CreditBoard.DTO.InitialDBMigration.resources
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.DTO\obj\Debug\CreditBoard.DTO.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\CreditBoard.Service.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\CreditBoard.Service.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\CreditBoard.DTO.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\CreditBoard.Shared.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\EntityFramework.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\CreditBoard.DTO.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\CreditBoard.Shared.pdb
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\EntityFramework.xml
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\obj\Debug\CreditBoard.Service.csprojResolveAssemblyReference.cache
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\obj\Debug\CreditBoard.Service.dll
+D:\Arpit\Alberto Lamberti\Credit-Board-Project\CreditBoard.Service\obj\Debug\CreditBoard.Service.pdb
